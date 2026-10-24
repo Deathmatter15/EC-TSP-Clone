@@ -114,3 +114,5 @@ To run each evolutionary algorithm:
 ## Contact Information:
 For any questions or issues with running the code, please contact:
 - **Tianyue Chu** - tianyue.chu@student.adelaide.edu.au
+
+{Edited: This is a copy of the finale product from https://github.com/The-EC-Course-2024-S2/group-assignment-1-group-sixers/tree/main. It was cloned for the purpose of being shared as evidence of personal programming participation}
