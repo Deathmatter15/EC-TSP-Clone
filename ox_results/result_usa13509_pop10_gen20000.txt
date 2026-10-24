@@ -1,0 +1,31 @@
+Algorithm Execution
+Dataset: usa13509
+Population Size: 10
+Generations: 20000
+Mutation Prob: 0.5
+
+Initial Best Distance: 2143284913.7246623
+--- Generation 0 ---
+Best Distance: 2143284913.7246623
+Worst Distance: 2143284913.7246623
+Average Distance: 2143284913.7246623
+Mutation Probability: 0.5
+Stagnant Generations: 1
+Unique Individuals: 1
+
+--- Generation 50 ---
+Best Distance: 2132598242.0182672
+Worst Distance: 2132598242.0182672
+Average Distance: 2132598242.0182672
+Mutation Probability: 0.4690945626937063
+Stagnant Generations: 0
+Unique Individuals: 1
+
+--- Generation 100 ---
+Best Distance: 2125719598.1805348
+Worst Distance: 2125719598.1805348
+Average Distance: 2125719598.1805348
+Mutation Probability: 0.3882634465241418
+Stagnant Generations: 0
+Unique Individuals: 1
+

@@ -1,0 +1,3212 @@
+Algorithm Execution
+Dataset: eil76
+Population Size: 10
+Generations: 20000
+Mutation Prob: 0.5
+
+Initial Best Distance: 2313.503883718667
+--- Generation 0 ---
+Best Distance: 2313.5038837186667
+Worst Distance: 2313.5038837186667
+Average Distance: 2313.5038837186667
+Mutation Probability: 0.5
+Stagnant Generations: 0
+Unique Individuals: 1
+
+--- Generation 50 ---
+Best Distance: 1607.5899427085953
+Worst Distance: 1607.5899427085953
+Average Distance: 1607.5899427085953
+Mutation Probability: 0.4690945626937063
+Stagnant Generations: 2
+Unique Individuals: 1
+
+--- Generation 100 ---
+Best Distance: 1375.3216086288396
+Worst Distance: 1375.3216086288396
+Average Distance: 1375.3216086288396
+Mutation Probability: 0.3882634465241418
+Stagnant Generations: 0
+Unique Individuals: 1
+
+--- Generation 150 ---
+Best Distance: 1254.3704999316421
+Worst Distance: 1254.3704999316421
+Average Distance: 1254.3704999316421
+Mutation Probability: 0.28342070572848743
+Stagnant Generations: 14
+Unique Individuals: 1
+
+--- Generation 200 ---
+Best Distance: 1236.7786308794955
+Worst Distance: 1236.7786308794955
+Average Distance: 1236.7786308794955
+Mutation Probability: 0.18240560160756003
+Stagnant Generations: 40
+Unique Individuals: 1
+
+--- Generation 250 ---
+Best Distance: 1232.9780297038812
+Worst Distance: 1232.9780297038812
+Average Distance: 1232.9780297038812
+Mutation Probability: 0.10346850222533228
+Stagnant Generations: 38
+Unique Individuals: 1
+
+--- Generation 300 ---
+Best Distance: 1219.2888286635425
+Worst Distance: 1219.2888286635425
+Average Distance: 1219.2888286635425
+Mutation Probability: 0.1
+Stagnant Generations: 14
+Unique Individuals: 1
+
+--- Generation 350 ---
+Best Distance: 1187.8432184210349
+Worst Distance: 1187.8432184210349
+Average Distance: 1187.8432184210349
+Mutation Probability: 0.1
+Stagnant Generations: 0
+Unique Individuals: 1
+
+--- Generation 400 ---
+Best Distance: 1187.8432184210349
+Worst Distance: 1187.8432184210349
+Average Distance: 1187.8432184210349
+Mutation Probability: 0.1
+Stagnant Generations: 50
+Unique Individuals: 1
+
+--- Generation 450 ---
+Best Distance: 1179.3702899634216
+Worst Distance: 1179.3702899634216
+Average Distance: 1179.3702899634216
+Mutation Probability: 0.1
+Stagnant Generations: 5
+Unique Individuals: 1
+
+--- Generation 500 ---
+Best Distance: 1167.1368475748668
+Worst Distance: 1167.1368475748668
+Average Distance: 1167.1368475748668
+Mutation Probability: 0.1
+Stagnant Generations: 8
+Unique Individuals: 1
+
+--- Generation 550 ---
+Best Distance: 1150.0786382614524
+Worst Distance: 1150.0786382614524
+Average Distance: 1150.0786382614524
+Mutation Probability: 0.1
+Stagnant Generations: 32
+Unique Individuals: 1
+
+--- Generation 600 ---
+Best Distance: 1127.6438841385768
+Worst Distance: 1127.6438841385768
+Average Distance: 1127.6438841385768
+Mutation Probability: 0.1
+Stagnant Generations: 1
+Unique Individuals: 1
+
+--- Generation 650 ---
+Best Distance: 1127.404070317729
+Worst Distance: 1127.404070317729
+Average Distance: 1127.404070317729
+Mutation Probability: 0.1
+Stagnant Generations: 37
+Unique Individuals: 1
+
+--- Generation 700 ---
+Best Distance: 1127.404070317729
+Worst Distance: 1127.404070317729
+Average Distance: 1127.404070317729
+Mutation Probability: 0.1
+Stagnant Generations: 87
+Unique Individuals: 1
+
+--- Generation 750 ---
+Best Distance: 1118.6414187972057
+Worst Distance: 1118.6414187972057
+Average Distance: 1118.6414187972057
+Mutation Probability: 0.1
+Stagnant Generations: 23
+Unique Individuals: 1
+
+--- Generation 800 ---
+Best Distance: 1113.3988315526562
+Worst Distance: 1113.3988315526562
+Average Distance: 1113.3988315526562
+Mutation Probability: 0.1
+Stagnant Generations: 24
+Unique Individuals: 1
+
+--- Generation 850 ---
+Best Distance: 1104.3242385745207
+Worst Distance: 1104.3242385745207
+Average Distance: 1104.3242385745207
+Mutation Probability: 0.1
+Stagnant Generations: 6
+Unique Individuals: 1
+
+--- Generation 900 ---
+Best Distance: 1083.8511590194764
+Worst Distance: 1083.8511590194764
+Average Distance: 1083.8511590194764
+Mutation Probability: 0.1
+Stagnant Generations: 16
+Unique Individuals: 1
+
+--- Generation 950 ---
+Best Distance: 1071.7362160009507
+Worst Distance: 1071.7362160009507
+Average Distance: 1071.7362160009507
+Mutation Probability: 0.1
+Stagnant Generations: 10
+Unique Individuals: 1
+
+--- Generation 1000 ---
+Best Distance: 1064.8859906995583
+Worst Distance: 1064.8859906995583
+Average Distance: 1064.8859906995583
+Mutation Probability: 0.1
+Stagnant Generations: 13
+Unique Individuals: 1
+
+--- Generation 1050 ---
+Best Distance: 1052.5529588284112
+Worst Distance: 1052.5529588284112
+Average Distance: 1052.5529588284112
+Mutation Probability: 0.1
+Stagnant Generations: 23
+Unique Individuals: 1
+
+--- Generation 1100 ---
+Best Distance: 1052.5529588284112
+Worst Distance: 1052.5529588284112
+Average Distance: 1052.5529588284112
+Mutation Probability: 0.1
+Stagnant Generations: 73
+Unique Individuals: 1
+
+--- Generation 1150 ---
+Best Distance: 1052.4074169438904
+Worst Distance: 1052.4074169438904
+Average Distance: 1052.4074169438904
+Mutation Probability: 0.1
+Stagnant Generations: 4
+Unique Individuals: 1
+
+--- Generation 1200 ---
+Best Distance: 1052.4074169438904
+Worst Distance: 1052.4074169438904
+Average Distance: 1052.4074169438904
+Mutation Probability: 0.1
+Stagnant Generations: 54
+Unique Individuals: 1
+
+--- Generation 1250 ---
+Best Distance: 1052.4074169438904
+Worst Distance: 1052.4074169438904
+Average Distance: 1052.4074169438904
+Mutation Probability: 0.1
+Stagnant Generations: 104
+Unique Individuals: 1
+
+--- Generation 1300 ---
+Best Distance: 1044.3765905557868
+Worst Distance: 1044.3765905557868
+Average Distance: 1044.3765905557868
+Mutation Probability: 0.1
+Stagnant Generations: 44
+Unique Individuals: 1
+
+--- Generation 1350 ---
+Best Distance: 1043.7727676325383
+Worst Distance: 1043.7727676325383
+Average Distance: 1043.7727676325383
+Mutation Probability: 0.1
+Stagnant Generations: 13
+Unique Individuals: 1
+
+--- Generation 1400 ---
+Best Distance: 1034.3057668648216
+Worst Distance: 1034.3057668648216
+Average Distance: 1034.3057668648216
+Mutation Probability: 0.1
+Stagnant Generations: 11
+Unique Individuals: 1
+
+--- Generation 1450 ---
+Best Distance: 1001.1593676807288
+Worst Distance: 1001.1593676807288
+Average Distance: 1001.1593676807288
+Mutation Probability: 0.1
+Stagnant Generations: 2
+Unique Individuals: 1
+
+--- Generation 1500 ---
+Best Distance: 994.3552707148214
+Worst Distance: 994.3552707148214
+Average Distance: 994.3552707148214
+Mutation Probability: 0.1
+Stagnant Generations: 0
+Unique Individuals: 1
+
+--- Generation 1550 ---
+Best Distance: 983.5645536020324
+Worst Distance: 983.5645536020324
+Average Distance: 983.5645536020324
+Mutation Probability: 0.1
+Stagnant Generations: 27
+Unique Individuals: 1
+
+--- Generation 1600 ---
+Best Distance: 978.4174133729043
+Worst Distance: 978.4174133729043
+Average Distance: 978.4174133729043
+Mutation Probability: 0.1
+Stagnant Generations: 2
+Unique Individuals: 1
+
+--- Generation 1650 ---
+Best Distance: 971.6703768297206
+Worst Distance: 971.6703768297206
+Average Distance: 971.6703768297206
+Mutation Probability: 0.1
+Stagnant Generations: 15
+Unique Individuals: 1
+
+--- Generation 1700 ---
+Best Distance: 970.3949647961239
+Worst Distance: 970.3949647961239
+Average Distance: 970.3949647961239
+Mutation Probability: 0.1
+Stagnant Generations: 46
+Unique Individuals: 1
+
+--- Generation 1750 ---
+Best Distance: 970.3729657294381
+Worst Distance: 970.3729657294381
+Average Distance: 970.3729657294381
+Mutation Probability: 0.1
+Stagnant Generations: 7
+Unique Individuals: 1
+
+--- Generation 1800 ---
+Best Distance: 963.1191226930207
+Worst Distance: 963.1191226930207
+Average Distance: 963.1191226930207
+Mutation Probability: 0.1
+Stagnant Generations: 8
+Unique Individuals: 1
+
+--- Generation 1850 ---
+Best Distance: 945.8004820556409
+Worst Distance: 945.8004820556409
+Average Distance: 945.8004820556409
+Mutation Probability: 0.1
+Stagnant Generations: 4
+Unique Individuals: 1
+
+--- Generation 1900 ---
+Best Distance: 939.5392726583775
+Worst Distance: 939.5392726583775
+Average Distance: 939.5392726583775
+Mutation Probability: 0.1
+Stagnant Generations: 6
+Unique Individuals: 1
+
+--- Generation 1950 ---
+Best Distance: 939.5392726583775
+Worst Distance: 939.5392726583775
+Average Distance: 939.5392726583775
+Mutation Probability: 0.1
+Stagnant Generations: 56
+Unique Individuals: 1
+
+--- Generation 2000 ---
+Best Distance: 935.2891386802339
+Worst Distance: 935.2891386802339
+Average Distance: 935.2891386802339
+Mutation Probability: 0.1
+Stagnant Generations: 1
+Unique Individuals: 1
+
+--- Generation 2050 ---
+Best Distance: 925.6700193965171
+Worst Distance: 925.6700193965171
+Average Distance: 925.6700193965171
+Mutation Probability: 0.1
+Stagnant Generations: 37
+Unique Individuals: 1
+
+--- Generation 2100 ---
+Best Distance: 924.7317710007112
+Worst Distance: 924.7317710007112
+Average Distance: 924.7317710007112
+Mutation Probability: 0.1
+Stagnant Generations: 37
+Unique Individuals: 1
+
+--- Generation 2150 ---
+Best Distance: 918.1226267693069
+Worst Distance: 918.1226267693069
+Average Distance: 918.1226267693069
+Mutation Probability: 0.1
+Stagnant Generations: 2
+Unique Individuals: 1
+
+--- Generation 2200 ---
+Best Distance: 918.1226267693069
+Worst Distance: 918.1226267693069
+Average Distance: 918.1226267693069
+Mutation Probability: 0.1
+Stagnant Generations: 52
+Unique Individuals: 1
+
+--- Generation 2250 ---
+Best Distance: 918.1226267693069
+Worst Distance: 918.1226267693069
+Average Distance: 918.1226267693069
+Mutation Probability: 0.1
+Stagnant Generations: 102
+Unique Individuals: 1
+
+--- Generation 2300 ---
+Best Distance: 918.1226267693069
+Worst Distance: 918.1226267693069
+Average Distance: 918.1226267693069
+Mutation Probability: 0.1
+Stagnant Generations: 152
+Unique Individuals: 1
+
+--- Generation 2350 ---
+Best Distance: 918.1226267693069
+Worst Distance: 918.1226267693069
+Average Distance: 918.1226267693069
+Mutation Probability: 0.1
+Stagnant Generations: 202
+Unique Individuals: 1
+
+--- Generation 2400 ---
+Best Distance: 916.4648288603054
+Worst Distance: 916.4648288603054
+Average Distance: 916.4648288603054
+Mutation Probability: 0.1
+Stagnant Generations: 19
+Unique Individuals: 1
+
+--- Generation 2450 ---
+Best Distance: 911.7647644487444
+Worst Distance: 911.7647644487444
+Average Distance: 911.7647644487444
+Mutation Probability: 0.1
+Stagnant Generations: 5
+Unique Individuals: 1
+
+--- Generation 2500 ---
+Best Distance: 911.7647644487444
+Worst Distance: 911.7647644487444
+Average Distance: 911.7647644487444
+Mutation Probability: 0.1
+Stagnant Generations: 55
+Unique Individuals: 1
+
+--- Generation 2550 ---
+Best Distance: 911.7647644487444
+Worst Distance: 911.7647644487444
+Average Distance: 911.7647644487444
+Mutation Probability: 0.1
+Stagnant Generations: 105
+Unique Individuals: 1
+
+--- Generation 2600 ---
+Best Distance: 909.9723946679006
+Worst Distance: 909.9723946679006
+Average Distance: 909.9723946679006
+Mutation Probability: 0.1
+Stagnant Generations: 29
+Unique Individuals: 1
+
+--- Generation 2650 ---
+Best Distance: 909.9723946679006
+Worst Distance: 909.9723946679006
+Average Distance: 909.9723946679006
+Mutation Probability: 0.1
+Stagnant Generations: 79
+Unique Individuals: 1
+
+--- Generation 2700 ---
+Best Distance: 896.7698269006682
+Worst Distance: 896.7698269006682
+Average Distance: 896.7698269006682
+Mutation Probability: 0.1
+Stagnant Generations: 21
+Unique Individuals: 1
+
+--- Generation 2750 ---
+Best Distance: 885.0795412504161
+Worst Distance: 885.0795412504161
+Average Distance: 885.0795412504161
+Mutation Probability: 0.1
+Stagnant Generations: 4
+Unique Individuals: 1
+
+--- Generation 2800 ---
+Best Distance: 885.0795412504161
+Worst Distance: 885.0795412504161
+Average Distance: 885.0795412504161
+Mutation Probability: 0.1
+Stagnant Generations: 54
+Unique Individuals: 1
+
+--- Generation 2850 ---
+Best Distance: 882.3749349385884
+Worst Distance: 882.3749349385884
+Average Distance: 882.3749349385884
+Mutation Probability: 0.1
+Stagnant Generations: 28
+Unique Individuals: 1
+
+--- Generation 2900 ---
+Best Distance: 874.7571985212597
+Worst Distance: 874.7571985212597
+Average Distance: 874.7571985212597
+Mutation Probability: 0.1
+Stagnant Generations: 33
+Unique Individuals: 1
+
+--- Generation 2950 ---
+Best Distance: 874.7571985212597
+Worst Distance: 874.7571985212597
+Average Distance: 874.7571985212597
+Mutation Probability: 0.1
+Stagnant Generations: 83
+Unique Individuals: 1
+
+--- Generation 3000 ---
+Best Distance: 868.8004805435409
+Worst Distance: 868.8004805435409
+Average Distance: 868.8004805435409
+Mutation Probability: 0.1
+Stagnant Generations: 35
+Unique Individuals: 1
+
+--- Generation 3050 ---
+Best Distance: 868.8004805435409
+Worst Distance: 868.8004805435409
+Average Distance: 868.8004805435409
+Mutation Probability: 0.1
+Stagnant Generations: 85
+Unique Individuals: 1
+
+--- Generation 3100 ---
+Best Distance: 868.8004805435409
+Worst Distance: 868.8004805435409
+Average Distance: 868.8004805435409
+Mutation Probability: 0.1
+Stagnant Generations: 135
+Unique Individuals: 1
+
+--- Generation 3150 ---
+Best Distance: 868.8004805435409
+Worst Distance: 868.8004805435409
+Average Distance: 868.8004805435409
+Mutation Probability: 0.1
+Stagnant Generations: 185
+Unique Individuals: 1
+
+--- Generation 3200 ---
+Best Distance: 858.5480251628925
+Worst Distance: 858.5480251628925
+Average Distance: 858.5480251628925
+Mutation Probability: 0.1
+Stagnant Generations: 42
+Unique Individuals: 1
+
+--- Generation 3250 ---
+Best Distance: 851.3488020691422
+Worst Distance: 851.3488020691422
+Average Distance: 851.3488020691422
+Mutation Probability: 0.1
+Stagnant Generations: 33
+Unique Individuals: 1
+
+--- Generation 3300 ---
+Best Distance: 851.038911590036
+Worst Distance: 851.038911590036
+Average Distance: 851.038911590036
+Mutation Probability: 0.1
+Stagnant Generations: 37
+Unique Individuals: 1
+
+--- Generation 3350 ---
+Best Distance: 842.0146040497592
+Worst Distance: 842.0146040497592
+Average Distance: 842.0146040497592
+Mutation Probability: 0.1
+Stagnant Generations: 35
+Unique Individuals: 1
+
+--- Generation 3400 ---
+Best Distance: 842.0146040497592
+Worst Distance: 842.0146040497592
+Average Distance: 842.0146040497592
+Mutation Probability: 0.1
+Stagnant Generations: 85
+Unique Individuals: 1
+
+--- Generation 3450 ---
+Best Distance: 841.5511087436995
+Worst Distance: 841.5511087436995
+Average Distance: 841.5511087436995
+Mutation Probability: 0.1
+Stagnant Generations: 15
+Unique Individuals: 1
+
+--- Generation 3500 ---
+Best Distance: 841.5511087436995
+Worst Distance: 841.5511087436995
+Average Distance: 841.5511087436995
+Mutation Probability: 0.1
+Stagnant Generations: 65
+Unique Individuals: 1
+
+--- Generation 3550 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 18
+Unique Individuals: 1
+
+--- Generation 3600 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 68
+Unique Individuals: 1
+
+--- Generation 3650 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 118
+Unique Individuals: 1
+
+--- Generation 3700 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 168
+Unique Individuals: 1
+
+--- Generation 3750 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 218
+Unique Individuals: 1
+
+--- Generation 3800 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 268
+Unique Individuals: 1
+
+--- Generation 3850 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 318
+Unique Individuals: 1
+
+--- Generation 3900 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 368
+Unique Individuals: 1
+
+--- Generation 3950 ---
+Best Distance: 834.9917775408985
+Worst Distance: 834.9917775408985
+Average Distance: 834.9917775408985
+Mutation Probability: 0.1
+Stagnant Generations: 418
+Unique Individuals: 1
+
+--- Generation 4000 ---
+Best Distance: 829.6634777958021
+Worst Distance: 829.6634777958021
+Average Distance: 829.6634777958021
+Mutation Probability: 0.1
+Stagnant Generations: 13
+Unique Individuals: 1
+
+--- Generation 4050 ---
+Best Distance: 829.6634777958021
+Worst Distance: 829.6634777958021
+Average Distance: 829.6634777958021
+Mutation Probability: 0.1
+Stagnant Generations: 63
+Unique Individuals: 1
+
+--- Generation 4100 ---
+Best Distance: 829.6634777958021
+Worst Distance: 829.6634777958021
+Average Distance: 829.6634777958021
+Mutation Probability: 0.1
+Stagnant Generations: 113
+Unique Individuals: 1
+
+--- Generation 4150 ---
+Best Distance: 829.6634777958021
+Worst Distance: 829.6634777958021
+Average Distance: 829.6634777958021
+Mutation Probability: 0.1
+Stagnant Generations: 163
+Unique Individuals: 1
+
+--- Generation 4200 ---
+Best Distance: 828.664460664142
+Worst Distance: 828.664460664142
+Average Distance: 828.664460664142
+Mutation Probability: 0.1
+Stagnant Generations: 27
+Unique Individuals: 1
+
+--- Generation 4250 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 22
+Unique Individuals: 1
+
+--- Generation 4300 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 72
+Unique Individuals: 1
+
+--- Generation 4350 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 122
+Unique Individuals: 1
+
+--- Generation 4400 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 172
+Unique Individuals: 1
+
+--- Generation 4450 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 222
+Unique Individuals: 1
+
+--- Generation 4500 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 272
+Unique Individuals: 1
+
+--- Generation 4550 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 322
+Unique Individuals: 1
+
+--- Generation 4600 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 372
+Unique Individuals: 1
+
+--- Generation 4650 ---
+Best Distance: 825.704878921951
+Worst Distance: 825.704878921951
+Average Distance: 825.704878921951
+Mutation Probability: 0.1
+Stagnant Generations: 422
+Unique Individuals: 1
+
+--- Generation 4700 ---
+Best Distance: 817.5356106957792
+Worst Distance: 817.5356106957792
+Average Distance: 817.5356106957792
+Mutation Probability: 0.1
+Stagnant Generations: 43
+Unique Individuals: 1
+
+--- Generation 4750 ---
+Best Distance: 817.5356106957792
+Worst Distance: 817.5356106957792
+Average Distance: 817.5356106957792
+Mutation Probability: 0.1
+Stagnant Generations: 93
+Unique Individuals: 1
+
+--- Generation 4800 ---
+Best Distance: 817.5356106957792
+Worst Distance: 817.5356106957792
+Average Distance: 817.5356106957792
+Mutation Probability: 0.1
+Stagnant Generations: 143
+Unique Individuals: 1
+
+--- Generation 4850 ---
+Best Distance: 814.578667591812
+Worst Distance: 814.578667591812
+Average Distance: 814.578667591812
+Mutation Probability: 0.1
+Stagnant Generations: 22
+Unique Individuals: 1
+
+--- Generation 4900 ---
+Best Distance: 814.578667591812
+Worst Distance: 814.578667591812
+Average Distance: 814.578667591812
+Mutation Probability: 0.1
+Stagnant Generations: 72
+Unique Individuals: 1
+
+--- Generation 4950 ---
+Best Distance: 814.578667591812
+Worst Distance: 814.578667591812
+Average Distance: 814.578667591812
+Mutation Probability: 0.1
+Stagnant Generations: 122
+Unique Individuals: 1
+
+--- Generation 5000 ---
+Best Distance: 814.578667591812
+Worst Distance: 814.578667591812
+Average Distance: 814.578667591812
+Mutation Probability: 0.1
+Stagnant Generations: 172
+Unique Individuals: 1
+
+--- Generation 5050 ---
+Best Distance: 811.5652927415787
+Worst Distance: 811.5652927415787
+Average Distance: 811.5652927415787
+Mutation Probability: 0.1
+Stagnant Generations: 15
+Unique Individuals: 1
+
+--- Generation 5100 ---
+Best Distance: 811.5652927415787
+Worst Distance: 811.5652927415787
+Average Distance: 811.5652927415787
+Mutation Probability: 0.1
+Stagnant Generations: 65
+Unique Individuals: 1
+
+--- Generation 5150 ---
+Best Distance: 811.5652927415787
+Worst Distance: 811.5652927415787
+Average Distance: 811.5652927415787
+Mutation Probability: 0.1
+Stagnant Generations: 115
+Unique Individuals: 1
+
+--- Generation 5200 ---
+Best Distance: 811.5652927415787
+Worst Distance: 811.5652927415787
+Average Distance: 811.5652927415787
+Mutation Probability: 0.1
+Stagnant Generations: 165
+Unique Individuals: 1
+
+--- Generation 5250 ---
+Best Distance: 811.5652927415787
+Worst Distance: 811.5652927415787
+Average Distance: 811.5652927415787
+Mutation Probability: 0.1
+Stagnant Generations: 215
+Unique Individuals: 1
+
+--- Generation 5300 ---
+Best Distance: 811.5652927415787
+Worst Distance: 811.5652927415787
+Average Distance: 811.5652927415787
+Mutation Probability: 0.1
+Stagnant Generations: 265
+Unique Individuals: 1
+
+--- Generation 5350 ---
+Best Distance: 808.0020929480248
+Worst Distance: 808.0020929480248
+Average Distance: 808.0020929480248
+Mutation Probability: 0.1
+Stagnant Generations: 3
+Unique Individuals: 1
+
+--- Generation 5400 ---
+Best Distance: 808.0020929480248
+Worst Distance: 808.0020929480248
+Average Distance: 808.0020929480248
+Mutation Probability: 0.1
+Stagnant Generations: 53
+Unique Individuals: 1
+
+--- Generation 5450 ---
+Best Distance: 806.0115886458246
+Worst Distance: 806.0115886458246
+Average Distance: 806.0115886458246
+Mutation Probability: 0.1
+Stagnant Generations: 29
+Unique Individuals: 1
+
+--- Generation 5500 ---
+Best Distance: 806.0115886458246
+Worst Distance: 806.0115886458246
+Average Distance: 806.0115886458246
+Mutation Probability: 0.1
+Stagnant Generations: 79
+Unique Individuals: 1
+
+--- Generation 5550 ---
+Best Distance: 797.5966016981309
+Worst Distance: 797.5966016981309
+Average Distance: 797.5966016981309
+Mutation Probability: 0.1
+Stagnant Generations: 39
+Unique Individuals: 1
+
+--- Generation 5600 ---
+Best Distance: 797.5966016981309
+Worst Distance: 797.5966016981309
+Average Distance: 797.5966016981309
+Mutation Probability: 0.1
+Stagnant Generations: 89
+Unique Individuals: 1
+
+--- Generation 5650 ---
+Best Distance: 797.5966016981309
+Worst Distance: 797.5966016981309
+Average Distance: 797.5966016981309
+Mutation Probability: 0.1
+Stagnant Generations: 139
+Unique Individuals: 1
+
+--- Generation 5700 ---
+Best Distance: 787.8976801921566
+Worst Distance: 787.8976801921566
+Average Distance: 787.8976801921566
+Mutation Probability: 0.1
+Stagnant Generations: 11
+Unique Individuals: 1
+
+--- Generation 5750 ---
+Best Distance: 787.8976801921566
+Worst Distance: 787.8976801921566
+Average Distance: 787.8976801921566
+Mutation Probability: 0.1
+Stagnant Generations: 61
+Unique Individuals: 1
+
+--- Generation 5800 ---
+Best Distance: 787.8976801921566
+Worst Distance: 787.8976801921566
+Average Distance: 787.8976801921566
+Mutation Probability: 0.1
+Stagnant Generations: 111
+Unique Individuals: 1
+
+--- Generation 5850 ---
+Best Distance: 787.8976801921566
+Worst Distance: 787.8976801921566
+Average Distance: 787.8976801921566
+Mutation Probability: 0.1
+Stagnant Generations: 161
+Unique Individuals: 1
+
+--- Generation 5900 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 43
+Unique Individuals: 1
+
+--- Generation 5950 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 93
+Unique Individuals: 1
+
+--- Generation 6000 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 143
+Unique Individuals: 1
+
+--- Generation 6050 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 193
+Unique Individuals: 1
+
+--- Generation 6100 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 243
+Unique Individuals: 1
+
+--- Generation 6150 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 293
+Unique Individuals: 1
+
+--- Generation 6200 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 343
+Unique Individuals: 1
+
+--- Generation 6250 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 393
+Unique Individuals: 1
+
+--- Generation 6300 ---
+Best Distance: 786.1131451314153
+Worst Distance: 786.1131451314153
+Average Distance: 786.1131451314153
+Mutation Probability: 0.1
+Stagnant Generations: 443
+Unique Individuals: 1
+
+--- Generation 6350 ---
+Best Distance: 785.6033219257234
+Worst Distance: 785.6033219257234
+Average Distance: 785.6033219257234
+Mutation Probability: 0.1
+Stagnant Generations: 11
+Unique Individuals: 1
+
+--- Generation 6400 ---
+Best Distance: 783.6033219257234
+Worst Distance: 783.6033219257234
+Average Distance: 783.6033219257234
+Mutation Probability: 0.1
+Stagnant Generations: 3
+Unique Individuals: 1
+
+--- Generation 6450 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 28
+Unique Individuals: 1
+
+--- Generation 6500 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 78
+Unique Individuals: 1
+
+--- Generation 6550 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 128
+Unique Individuals: 1
+
+--- Generation 6600 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 178
+Unique Individuals: 1
+
+--- Generation 6650 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 228
+Unique Individuals: 1
+
+--- Generation 6700 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 278
+Unique Individuals: 1
+
+--- Generation 6750 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 328
+Unique Individuals: 1
+
+--- Generation 6800 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 378
+Unique Individuals: 1
+
+--- Generation 6850 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 428
+Unique Individuals: 1
+
+--- Generation 6900 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 478
+Unique Individuals: 1
+
+--- Generation 6950 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 528
+Unique Individuals: 1
+
+--- Generation 7000 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 578
+Unique Individuals: 1
+
+--- Generation 7050 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 628
+Unique Individuals: 1
+
+--- Generation 7100 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 678
+Unique Individuals: 1
+
+--- Generation 7150 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 728
+Unique Individuals: 1
+
+--- Generation 7200 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 778
+Unique Individuals: 1
+
+--- Generation 7250 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 828
+Unique Individuals: 1
+
+--- Generation 7300 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 878
+Unique Individuals: 1
+
+--- Generation 7350 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 928
+Unique Individuals: 1
+
+--- Generation 7400 ---
+Best Distance: 779.1968647910481
+Worst Distance: 779.1968647910481
+Average Distance: 779.1968647910481
+Mutation Probability: 0.1
+Stagnant Generations: 978
+Unique Individuals: 1
+
+--- Generation 7450 ---
+Best Distance: 778.7251662953446
+Worst Distance: 778.7251662953446
+Average Distance: 778.7251662953446
+Mutation Probability: 0.1
+Stagnant Generations: 27
+Unique Individuals: 1
+
+--- Generation 7500 ---
+Best Distance: 778.7251662953446
+Worst Distance: 778.7251662953446
+Average Distance: 778.7251662953446
+Mutation Probability: 0.1
+Stagnant Generations: 77
+Unique Individuals: 1
+
+--- Generation 7550 ---
+Best Distance: 778.7251662953446
+Worst Distance: 778.7251662953446
+Average Distance: 778.7251662953446
+Mutation Probability: 0.1
+Stagnant Generations: 127
+Unique Individuals: 1
+
+--- Generation 7600 ---
+Best Distance: 778.3396467105648
+Worst Distance: 778.3396467105648
+Average Distance: 778.3396467105648
+Mutation Probability: 0.1
+Stagnant Generations: 0
+Unique Individuals: 1
+
+--- Generation 7650 ---
+Best Distance: 778.3396467105648
+Worst Distance: 778.3396467105648
+Average Distance: 778.3396467105648
+Mutation Probability: 0.1
+Stagnant Generations: 50
+Unique Individuals: 1
+
+--- Generation 7700 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 6
+Unique Individuals: 1
+
+--- Generation 7750 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 56
+Unique Individuals: 1
+
+--- Generation 7800 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 106
+Unique Individuals: 1
+
+--- Generation 7850 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 156
+Unique Individuals: 1
+
+--- Generation 7900 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 206
+Unique Individuals: 1
+
+--- Generation 7950 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 256
+Unique Individuals: 1
+
+--- Generation 8000 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 306
+Unique Individuals: 1
+
+--- Generation 8050 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 356
+Unique Individuals: 1
+
+--- Generation 8100 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 406
+Unique Individuals: 1
+
+--- Generation 8150 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 456
+Unique Individuals: 1
+
+--- Generation 8200 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 506
+Unique Individuals: 1
+
+--- Generation 8250 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 556
+Unique Individuals: 1
+
+--- Generation 8300 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 606
+Unique Individuals: 1
+
+--- Generation 8350 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 656
+Unique Individuals: 1
+
+--- Generation 8400 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 706
+Unique Individuals: 1
+
+--- Generation 8450 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 756
+Unique Individuals: 1
+
+--- Generation 8500 ---
+Best Distance: 776.9854335907249
+Worst Distance: 776.9854335907249
+Average Distance: 776.9854335907249
+Mutation Probability: 0.1
+Stagnant Generations: 806
+Unique Individuals: 1
+
+--- Generation 8550 ---
+Best Distance: 776.6579254279062
+Worst Distance: 776.6579254279062
+Average Distance: 776.6579254279062
+Mutation Probability: 0.1
+Stagnant Generations: 8
+Unique Individuals: 1
+
+--- Generation 8600 ---
+Best Distance: 776.6579254279062
+Worst Distance: 776.6579254279062
+Average Distance: 776.6579254279062
+Mutation Probability: 0.1
+Stagnant Generations: 58
+Unique Individuals: 1
+
+--- Generation 8650 ---
+Best Distance: 776.6579254279062
+Worst Distance: 776.6579254279062
+Average Distance: 776.6579254279062
+Mutation Probability: 0.1
+Stagnant Generations: 108
+Unique Individuals: 1
+
+--- Generation 8700 ---
+Best Distance: 776.6579254279062
+Worst Distance: 776.6579254279062
+Average Distance: 776.6579254279062
+Mutation Probability: 0.1
+Stagnant Generations: 158
+Unique Individuals: 1
+
+--- Generation 8750 ---
+Best Distance: 776.0689079485559
+Worst Distance: 776.0689079485559
+Average Distance: 776.0689079485559
+Mutation Probability: 0.1
+Stagnant Generations: 28
+Unique Individuals: 1
+
+--- Generation 8800 ---
+Best Distance: 776.0689079485559
+Worst Distance: 776.0689079485559
+Average Distance: 776.0689079485559
+Mutation Probability: 0.1
+Stagnant Generations: 78
+Unique Individuals: 1
+
+--- Generation 8850 ---
+Best Distance: 776.0689079485559
+Worst Distance: 776.0689079485559
+Average Distance: 776.0689079485559
+Mutation Probability: 0.1
+Stagnant Generations: 128
+Unique Individuals: 1
+
+--- Generation 8900 ---
+Best Distance: 776.0689079485559
+Worst Distance: 776.0689079485559
+Average Distance: 776.0689079485559
+Mutation Probability: 0.1
+Stagnant Generations: 178
+Unique Individuals: 1
+
+--- Generation 8950 ---
+Best Distance: 776.0689079485559
+Worst Distance: 776.0689079485559
+Average Distance: 776.0689079485559
+Mutation Probability: 0.1
+Stagnant Generations: 228
+Unique Individuals: 1
+
+--- Generation 9000 ---
+Best Distance: 769.4739143920851
+Worst Distance: 769.4739143920851
+Average Distance: 769.4739143920851
+Mutation Probability: 0.1
+Stagnant Generations: 3
+Unique Individuals: 1
+
+--- Generation 9050 ---
+Best Distance: 769.4739143920851
+Worst Distance: 769.4739143920851
+Average Distance: 769.4739143920851
+Mutation Probability: 0.1
+Stagnant Generations: 53
+Unique Individuals: 1
+
+--- Generation 9100 ---
+Best Distance: 769.4739143920851
+Worst Distance: 769.4739143920851
+Average Distance: 769.4739143920851
+Mutation Probability: 0.1
+Stagnant Generations: 103
+Unique Individuals: 1
+
+--- Generation 9150 ---
+Best Distance: 769.4739143920851
+Worst Distance: 769.4739143920851
+Average Distance: 769.4739143920851
+Mutation Probability: 0.1
+Stagnant Generations: 153
+Unique Individuals: 1
+
+--- Generation 9200 ---
+Best Distance: 767.573344273788
+Worst Distance: 767.573344273788
+Average Distance: 767.573344273788
+Mutation Probability: 0.1
+Stagnant Generations: 8
+Unique Individuals: 1
+
+--- Generation 9250 ---
+Best Distance: 767.573344273788
+Worst Distance: 767.573344273788
+Average Distance: 767.573344273788
+Mutation Probability: 0.1
+Stagnant Generations: 58
+Unique Individuals: 1
+
+--- Generation 9300 ---
+Best Distance: 759.2820332410417
+Worst Distance: 759.2820332410417
+Average Distance: 759.2820332410417
+Mutation Probability: 0.1
+Stagnant Generations: 2
+Unique Individuals: 1
+
+--- Generation 9350 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 15
+Unique Individuals: 1
+
+--- Generation 9400 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 65
+Unique Individuals: 1
+
+--- Generation 9450 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 115
+Unique Individuals: 1
+
+--- Generation 9500 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 165
+Unique Individuals: 1
+
+--- Generation 9550 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 215
+Unique Individuals: 1
+
+--- Generation 9600 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 265
+Unique Individuals: 1
+
+--- Generation 9650 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 315
+Unique Individuals: 1
+
+--- Generation 9700 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 365
+Unique Individuals: 1
+
+--- Generation 9750 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 415
+Unique Individuals: 1
+
+--- Generation 9800 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 465
+Unique Individuals: 1
+
+--- Generation 9850 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 515
+Unique Individuals: 1
+
+--- Generation 9900 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 565
+Unique Individuals: 1
+
+--- Generation 9950 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 615
+Unique Individuals: 1
+
+--- Generation 10000 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 665
+Unique Individuals: 1
+
+--- Generation 10050 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 715
+Unique Individuals: 1
+
+--- Generation 10100 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 765
+Unique Individuals: 1
+
+--- Generation 10150 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 815
+Unique Individuals: 1
+
+--- Generation 10200 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 865
+Unique Individuals: 1
+
+--- Generation 10250 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 915
+Unique Individuals: 1
+
+--- Generation 10300 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 965
+Unique Individuals: 1
+
+--- Generation 10350 ---
+Best Distance: 758.2031699217898
+Worst Distance: 758.2031699217898
+Average Distance: 758.2031699217898
+Mutation Probability: 0.1
+Stagnant Generations: 1015
+Unique Individuals: 1
+
+--- Generation 10400 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 24
+Unique Individuals: 1
+
+--- Generation 10450 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 74
+Unique Individuals: 1
+
+--- Generation 10500 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 124
+Unique Individuals: 1
+
+--- Generation 10550 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 174
+Unique Individuals: 1
+
+--- Generation 10600 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 224
+Unique Individuals: 1
+
+--- Generation 10650 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 274
+Unique Individuals: 1
+
+--- Generation 10700 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 324
+Unique Individuals: 1
+
+--- Generation 10750 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 374
+Unique Individuals: 1
+
+--- Generation 10800 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 424
+Unique Individuals: 1
+
+--- Generation 10850 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 474
+Unique Individuals: 1
+
+--- Generation 10900 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 524
+Unique Individuals: 1
+
+--- Generation 10950 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 574
+Unique Individuals: 1
+
+--- Generation 11000 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 624
+Unique Individuals: 1
+
+--- Generation 11050 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 674
+Unique Individuals: 1
+
+--- Generation 11100 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 724
+Unique Individuals: 1
+
+--- Generation 11150 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 774
+Unique Individuals: 1
+
+--- Generation 11200 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 824
+Unique Individuals: 1
+
+--- Generation 11250 ---
+Best Distance: 754.2090080103441
+Worst Distance: 754.2090080103441
+Average Distance: 754.2090080103441
+Mutation Probability: 0.1
+Stagnant Generations: 874
+Unique Individuals: 1
+
+--- Generation 11300 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 3
+Unique Individuals: 1
+
+--- Generation 11350 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 53
+Unique Individuals: 1
+
+--- Generation 11400 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 103
+Unique Individuals: 1
+
+--- Generation 11450 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 153
+Unique Individuals: 1
+
+--- Generation 11500 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 203
+Unique Individuals: 1
+
+--- Generation 11550 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 253
+Unique Individuals: 1
+
+--- Generation 11600 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 303
+Unique Individuals: 1
+
+--- Generation 11650 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 353
+Unique Individuals: 1
+
+--- Generation 11700 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 403
+Unique Individuals: 1
+
+--- Generation 11750 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 453
+Unique Individuals: 1
+
+--- Generation 11800 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 503
+Unique Individuals: 1
+
+--- Generation 11850 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 553
+Unique Individuals: 1
+
+--- Generation 11900 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 603
+Unique Individuals: 1
+
+--- Generation 11950 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 653
+Unique Individuals: 1
+
+--- Generation 12000 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 703
+Unique Individuals: 1
+
+--- Generation 12050 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 753
+Unique Individuals: 1
+
+--- Generation 12100 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 803
+Unique Individuals: 1
+
+--- Generation 12150 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 853
+Unique Individuals: 1
+
+--- Generation 12200 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 903
+Unique Individuals: 1
+
+--- Generation 12250 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 953
+Unique Individuals: 1
+
+--- Generation 12300 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 1003
+Unique Individuals: 1
+
+--- Generation 12350 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 1053
+Unique Individuals: 1
+
+--- Generation 12400 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 1103
+Unique Individuals: 1
+
+--- Generation 12450 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 1153
+Unique Individuals: 1
+
+--- Generation 12500 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 1203
+Unique Individuals: 1
+
+--- Generation 12550 ---
+Best Distance: 751.1924331456999
+Worst Distance: 751.1924331456999
+Average Distance: 751.1924331456999
+Mutation Probability: 0.1
+Stagnant Generations: 1253
+Unique Individuals: 1
+
+--- Generation 12600 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 12
+Unique Individuals: 1
+
+--- Generation 12650 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 62
+Unique Individuals: 1
+
+--- Generation 12700 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 112
+Unique Individuals: 1
+
+--- Generation 12750 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 162
+Unique Individuals: 1
+
+--- Generation 12800 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 212
+Unique Individuals: 1
+
+--- Generation 12850 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 262
+Unique Individuals: 1
+
+--- Generation 12900 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 312
+Unique Individuals: 1
+
+--- Generation 12950 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 362
+Unique Individuals: 1
+
+--- Generation 13000 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 412
+Unique Individuals: 1
+
+--- Generation 13050 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 462
+Unique Individuals: 1
+
+--- Generation 13100 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 512
+Unique Individuals: 1
+
+--- Generation 13150 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 562
+Unique Individuals: 1
+
+--- Generation 13200 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 612
+Unique Individuals: 1
+
+--- Generation 13250 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 662
+Unique Individuals: 1
+
+--- Generation 13300 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 712
+Unique Individuals: 1
+
+--- Generation 13350 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 762
+Unique Individuals: 1
+
+--- Generation 13400 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 812
+Unique Individuals: 1
+
+--- Generation 13450 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 862
+Unique Individuals: 1
+
+--- Generation 13500 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 912
+Unique Individuals: 1
+
+--- Generation 13550 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 962
+Unique Individuals: 1
+
+--- Generation 13600 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1012
+Unique Individuals: 1
+
+--- Generation 13650 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1062
+Unique Individuals: 1
+
+--- Generation 13700 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1112
+Unique Individuals: 1
+
+--- Generation 13750 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1162
+Unique Individuals: 1
+
+--- Generation 13800 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1212
+Unique Individuals: 1
+
+--- Generation 13850 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1262
+Unique Individuals: 1
+
+--- Generation 13900 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1312
+Unique Individuals: 1
+
+--- Generation 13950 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1362
+Unique Individuals: 1
+
+--- Generation 14000 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1412
+Unique Individuals: 1
+
+--- Generation 14050 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1462
+Unique Individuals: 1
+
+--- Generation 14100 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1512
+Unique Individuals: 1
+
+--- Generation 14150 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1562
+Unique Individuals: 1
+
+--- Generation 14200 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1612
+Unique Individuals: 1
+
+--- Generation 14250 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1662
+Unique Individuals: 1
+
+--- Generation 14300 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1712
+Unique Individuals: 1
+
+--- Generation 14350 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1762
+Unique Individuals: 1
+
+--- Generation 14400 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1812
+Unique Individuals: 1
+
+--- Generation 14450 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1862
+Unique Individuals: 1
+
+--- Generation 14500 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1912
+Unique Individuals: 1
+
+--- Generation 14550 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 1962
+Unique Individuals: 1
+
+--- Generation 14600 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 2012
+Unique Individuals: 1
+
+--- Generation 14650 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 2062
+Unique Individuals: 1
+
+--- Generation 14700 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 2112
+Unique Individuals: 1
+
+--- Generation 14750 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 2162
+Unique Individuals: 1
+
+--- Generation 14800 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 2212
+Unique Individuals: 1
+
+--- Generation 14850 ---
+Best Distance: 749.828036968079
+Worst Distance: 749.828036968079
+Average Distance: 749.828036968079
+Mutation Probability: 0.1
+Stagnant Generations: 2262
+Unique Individuals: 1
+
+--- Generation 14900 ---
+Best Distance: 748.5613749176198
+Worst Distance: 748.5613749176198
+Average Distance: 748.5613749176198
+Mutation Probability: 0.1
+Stagnant Generations: 13
+Unique Individuals: 1
+
+--- Generation 14950 ---
+Best Distance: 748.5613749176198
+Worst Distance: 748.5613749176198
+Average Distance: 748.5613749176198
+Mutation Probability: 0.1
+Stagnant Generations: 63
+Unique Individuals: 1
+
+--- Generation 15000 ---
+Best Distance: 748.5613749176198
+Worst Distance: 748.5613749176198
+Average Distance: 748.5613749176198
+Mutation Probability: 0.1
+Stagnant Generations: 113
+Unique Individuals: 1
+
+--- Generation 15050 ---
+Best Distance: 748.5613749176198
+Worst Distance: 748.5613749176198
+Average Distance: 748.5613749176198
+Mutation Probability: 0.1
+Stagnant Generations: 163
+Unique Individuals: 1
+
+--- Generation 15100 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 13
+Unique Individuals: 1
+
+--- Generation 15150 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 63
+Unique Individuals: 1
+
+--- Generation 15200 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 113
+Unique Individuals: 1
+
+--- Generation 15250 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 163
+Unique Individuals: 1
+
+--- Generation 15300 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 213
+Unique Individuals: 1
+
+--- Generation 15350 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 263
+Unique Individuals: 1
+
+--- Generation 15400 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 313
+Unique Individuals: 1
+
+--- Generation 15450 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 363
+Unique Individuals: 1
+
+--- Generation 15500 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 413
+Unique Individuals: 1
+
+--- Generation 15550 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 463
+Unique Individuals: 1
+
+--- Generation 15600 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 513
+Unique Individuals: 1
+
+--- Generation 15650 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 563
+Unique Individuals: 1
+
+--- Generation 15700 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 613
+Unique Individuals: 1
+
+--- Generation 15750 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 663
+Unique Individuals: 1
+
+--- Generation 15800 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 713
+Unique Individuals: 1
+
+--- Generation 15850 ---
+Best Distance: 747.9215589674849
+Worst Distance: 747.9215589674849
+Average Distance: 747.9215589674849
+Mutation Probability: 0.1
+Stagnant Generations: 763
+Unique Individuals: 1
+
+--- Generation 15900 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 6
+Unique Individuals: 1
+
+--- Generation 15950 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 56
+Unique Individuals: 1
+
+--- Generation 16000 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 106
+Unique Individuals: 1
+
+--- Generation 16050 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 156
+Unique Individuals: 1
+
+--- Generation 16100 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 206
+Unique Individuals: 1
+
+--- Generation 16150 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 256
+Unique Individuals: 1
+
+--- Generation 16200 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 306
+Unique Individuals: 1
+
+--- Generation 16250 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 356
+Unique Individuals: 1
+
+--- Generation 16300 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 406
+Unique Individuals: 1
+
+--- Generation 16350 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 456
+Unique Individuals: 1
+
+--- Generation 16400 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 506
+Unique Individuals: 1
+
+--- Generation 16450 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 556
+Unique Individuals: 1
+
+--- Generation 16500 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 606
+Unique Individuals: 1
+
+--- Generation 16550 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 656
+Unique Individuals: 1
+
+--- Generation 16600 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 706
+Unique Individuals: 1
+
+--- Generation 16650 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 756
+Unique Individuals: 1
+
+--- Generation 16700 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 806
+Unique Individuals: 1
+
+--- Generation 16750 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 856
+Unique Individuals: 1
+
+--- Generation 16800 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 906
+Unique Individuals: 1
+
+--- Generation 16850 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 956
+Unique Individuals: 1
+
+--- Generation 16900 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1006
+Unique Individuals: 1
+
+--- Generation 16950 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1056
+Unique Individuals: 1
+
+--- Generation 17000 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1106
+Unique Individuals: 1
+
+--- Generation 17050 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1156
+Unique Individuals: 1
+
+--- Generation 17100 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1206
+Unique Individuals: 1
+
+--- Generation 17150 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1256
+Unique Individuals: 1
+
+--- Generation 17200 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1306
+Unique Individuals: 1
+
+--- Generation 17250 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1356
+Unique Individuals: 1
+
+--- Generation 17300 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1406
+Unique Individuals: 1
+
+--- Generation 17350 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1456
+Unique Individuals: 1
+
+--- Generation 17400 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1506
+Unique Individuals: 1
+
+--- Generation 17450 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1556
+Unique Individuals: 1
+
+--- Generation 17500 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1606
+Unique Individuals: 1
+
+--- Generation 17550 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1656
+Unique Individuals: 1
+
+--- Generation 17600 ---
+Best Distance: 746.1189458505373
+Worst Distance: 746.1189458505373
+Average Distance: 746.1189458505373
+Mutation Probability: 0.1
+Stagnant Generations: 1706
+Unique Individuals: 1
+
+--- Generation 17650 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 14
+Unique Individuals: 1
+
+--- Generation 17700 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 64
+Unique Individuals: 1
+
+--- Generation 17750 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 114
+Unique Individuals: 1
+
+--- Generation 17800 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 164
+Unique Individuals: 1
+
+--- Generation 17850 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 214
+Unique Individuals: 1
+
+--- Generation 17900 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 264
+Unique Individuals: 1
+
+--- Generation 17950 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 314
+Unique Individuals: 1
+
+--- Generation 18000 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 364
+Unique Individuals: 1
+
+--- Generation 18050 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 414
+Unique Individuals: 1
+
+--- Generation 18100 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 464
+Unique Individuals: 1
+
+--- Generation 18150 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 514
+Unique Individuals: 1
+
+--- Generation 18200 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 564
+Unique Individuals: 1
+
+--- Generation 18250 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 614
+Unique Individuals: 1
+
+--- Generation 18300 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 664
+Unique Individuals: 1
+
+--- Generation 18350 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 714
+Unique Individuals: 1
+
+--- Generation 18400 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 764
+Unique Individuals: 1
+
+--- Generation 18450 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 814
+Unique Individuals: 1
+
+--- Generation 18500 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 864
+Unique Individuals: 1
+
+--- Generation 18550 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 914
+Unique Individuals: 1
+
+--- Generation 18600 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 964
+Unique Individuals: 1
+
+--- Generation 18650 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1014
+Unique Individuals: 1
+
+--- Generation 18700 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1064
+Unique Individuals: 1
+
+--- Generation 18750 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1114
+Unique Individuals: 1
+
+--- Generation 18800 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1164
+Unique Individuals: 1
+
+--- Generation 18850 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1214
+Unique Individuals: 1
+
+--- Generation 18900 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1264
+Unique Individuals: 1
+
+--- Generation 18950 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1314
+Unique Individuals: 1
+
+--- Generation 19000 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1364
+Unique Individuals: 1
+
+--- Generation 19050 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1414
+Unique Individuals: 1
+
+--- Generation 19100 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1464
+Unique Individuals: 1
+
+--- Generation 19150 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1514
+Unique Individuals: 1
+
+--- Generation 19200 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1564
+Unique Individuals: 1
+
+--- Generation 19250 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1614
+Unique Individuals: 1
+
+--- Generation 19300 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1664
+Unique Individuals: 1
+
+--- Generation 19350 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1714
+Unique Individuals: 1
+
+--- Generation 19400 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1764
+Unique Individuals: 1
+
+--- Generation 19450 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1814
+Unique Individuals: 1
+
+--- Generation 19500 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1864
+Unique Individuals: 1
+
+--- Generation 19550 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1914
+Unique Individuals: 1
+
+--- Generation 19600 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 1964
+Unique Individuals: 1
+
+--- Generation 19650 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 2014
+Unique Individuals: 1
+
+--- Generation 19700 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 2064
+Unique Individuals: 1
+
+--- Generation 19750 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 2114
+Unique Individuals: 1
+
+--- Generation 19800 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 2164
+Unique Individuals: 1
+
+--- Generation 19850 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 2214
+Unique Individuals: 1
+
+--- Generation 19900 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 2264
+Unique Individuals: 1
+
+--- Generation 19950 ---
+Best Distance: 742.2118908161394
+Worst Distance: 742.2118908161394
+Average Distance: 742.2118908161394
+Mutation Probability: 0.1
+Stagnant Generations: 2314
+Unique Individuals: 1
+
+
+--- Final Results ---
+Initial Best Distance: 2313.503883718667
+Lowest Distance Achieved: 742.2118908161394
+Final Best Distance: 742.2118908161394

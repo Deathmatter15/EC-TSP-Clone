@@ -1,0 +1,47 @@
+Algorithm Execution
+Dataset: pr2392
+Population Size: 100
+Generations: 20000
+Mutation Prob: 0.5
+
+Initial Best Distance: 14985118.439119585
+--- Generation 0 ---
+Best Distance: 14949948.025273403
+Worst Distance: 14985118.439119585
+Average Distance: 14966587.825320074
+Mutation Probability: 0.5
+Stagnant Generations: 0
+Unique Individuals: 4
+
+--- Generation 50 ---
+Best Distance: 13569795.338076312
+Worst Distance: 13576419.95326088
+Average Distance: 13572784.0075126
+Mutation Probability: 0.4690945626937063
+Stagnant Generations: 0
+Unique Individuals: 3
+
+--- Generation 100 ---
+Best Distance: 12841896.502419064
+Worst Distance: 12848680.532656893
+Average Distance: 12845866.637237249
+Mutation Probability: 0.3882634465241418
+Stagnant Generations: 0
+Unique Individuals: 3
+
+--- Generation 150 ---
+Best Distance: 12256276.73737177
+Worst Distance: 12257653.888753405
+Average Distance: 12256913.802241214
+Mutation Probability: 0.28342070572848743
+Stagnant Generations: 0
+Unique Individuals: 3
+
+--- Generation 200 ---
+Best Distance: 11769031.484831598
+Worst Distance: 11771771.665769571
+Average Distance: 11770736.659405144
+Mutation Probability: 0.18240560160756003
+Stagnant Generations: 0
+Unique Individuals: 3
+

@@ -1,0 +1,48 @@
+Inver Over Algorithm Results
+
+Implementation of the Inver Over algorithm
+for the Travelling Salesman Problem 
+
+Each instance run 30 times, with a population of 50 over 20000 generations
+==============================================
+Instance:  eil51
+
+Average Tour Cost:  1455.396736304911
+Standard Deviation:  46.62814470933825
+==============================================
+==============================================
+Instance:  eil76
+
+Average Tour Cost:  2260.4196574997495
+Standard Deviation:  55.59542333034353
+==============================================
+==============================================
+Instance:  eil101
+
+Average Tour Cost:  3118.3956172529633
+Standard Deviation:  71.23588506536264
+==============================================
+==============================================
+Instance:  kroA100
+
+Average Tour Cost:  153534.53126678508
+Standard Deviation:  3958.1496686553783
+==============================================
+==============================================
+Instance:  kroC100
+
+Average Tour Cost:  151514.7365565106
+Standard Deviation:  2695.2479925978114
+==============================================
+==============================================
+Instance:  lin105
+
+Average Tour Cost:  110318.72344318003
+Standard Deviation:  2575.5679944574376
+==============================================
+==============================================
+Instance:  pcb442
+
+Average Tour Cost:  737747.4631888579
+Standard Deviation:  7230.459649817895
+==============================================
